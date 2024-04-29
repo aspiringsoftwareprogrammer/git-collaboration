@@ -11,3 +11,4 @@ List of apples
 9. Braeburn
 10. Jonagold
 11. Red Delicious
+12. Baldwin
