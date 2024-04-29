@@ -5,3 +5,8 @@ List of apples
 3. Pink Lady
 4. Golden Delicious
 5. McIntosh
+6. Granny Smith
+7. Gala
+8. Rome
+9. Braeburn
+10. Jonagold
